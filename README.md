@@ -45,4 +45,4 @@ For any queries or collaboration requests, feel free to reach out via GitHub.
 
 ---
 
-© 2025 Huzaifa Karim
+© 2025 Muhammad Huzaifa Karim
