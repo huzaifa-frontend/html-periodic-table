@@ -27,6 +27,15 @@ html-periodic-table/
 └── README.md        # Project documentation
 ```
 
+---
+
+## ✍️ Author
+
+**Muhammad Huzaifa Karim**  
+[GitHub Profile](https://github.com/huzaifakarim1)
+
+---
+
 ## 🛠️ How to Run Locally
 
 1. Clone this repository:
