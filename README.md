@@ -18,23 +18,14 @@ This is a simple and visually structured **Periodic Table** built using **HTML**
 - HTML5
 - Inline CSS
 
-## 📦 Folder Structure
+## 📁 File Structure
 
 ```
-html-periodic-table/
-│
-├── index.html       # Main file with inline styling
-└── README.md        # Project documentation
+📦 html-landing-page
+ ┣ 📄 index.html
+ ┣ 📄 README.md
+ ┗ 📄 LICENSE
 ```
-
----
-
-## ✍️ Author
-
-**Muhammad Huzaifa Karim**  
-[GitHub Profile](https://github.com/huzaifakarim1)
-
----
 
 ## 🛠️ How to Run Locally
 
@@ -44,9 +35,18 @@ html-periodic-table/
    ```
 2. Open `index.html` in your browser.
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+## ✍️ Author
+
+**Muhammad Huzaifa Karim**  
+[GitHub Profile](https://github.com/huzaifakarim1)
+
 ## 🔄 Deployment
 
-This project is deployed via **GitHub Pages**. Any changes pushed to the `main` branch will automatically update the live site.
+This project is deployed via GitHub Pages. Any changes pushed to the main branch will automatically update the live site.
 
 ## 📬 Contact
 
